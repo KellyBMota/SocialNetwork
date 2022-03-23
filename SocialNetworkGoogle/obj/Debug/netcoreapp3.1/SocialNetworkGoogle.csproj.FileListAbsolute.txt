@@ -1,0 +1,14 @@
+C:\Users\kelly\source\repos\SocialNetworkGoogle\SocialNetworkGoogle\bin\Debug\netcoreapp3.1\SocialNetworkGoogle.exe
+C:\Users\kelly\source\repos\SocialNetworkGoogle\SocialNetworkGoogle\bin\Debug\netcoreapp3.1\SocialNetworkGoogle.deps.json
+C:\Users\kelly\source\repos\SocialNetworkGoogle\SocialNetworkGoogle\bin\Debug\netcoreapp3.1\SocialNetworkGoogle.runtimeconfig.json
+C:\Users\kelly\source\repos\SocialNetworkGoogle\SocialNetworkGoogle\bin\Debug\netcoreapp3.1\SocialNetworkGoogle.runtimeconfig.dev.json
+C:\Users\kelly\source\repos\SocialNetworkGoogle\SocialNetworkGoogle\bin\Debug\netcoreapp3.1\SocialNetworkGoogle.dll
+C:\Users\kelly\source\repos\SocialNetworkGoogle\SocialNetworkGoogle\bin\Debug\netcoreapp3.1\SocialNetworkGoogle.pdb
+C:\Users\kelly\source\repos\SocialNetworkGoogle\SocialNetworkGoogle\obj\Debug\netcoreapp3.1\SocialNetworkGoogle.csproj.AssemblyReference.cache
+C:\Users\kelly\source\repos\SocialNetworkGoogle\SocialNetworkGoogle\obj\Debug\netcoreapp3.1\SocialNetworkGoogle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly\source\repos\SocialNetworkGoogle\SocialNetworkGoogle\obj\Debug\netcoreapp3.1\SocialNetworkGoogle.AssemblyInfoInputs.cache
+C:\Users\kelly\source\repos\SocialNetworkGoogle\SocialNetworkGoogle\obj\Debug\netcoreapp3.1\SocialNetworkGoogle.AssemblyInfo.cs
+C:\Users\kelly\source\repos\SocialNetworkGoogle\SocialNetworkGoogle\obj\Debug\netcoreapp3.1\SocialNetworkGoogle.csproj.CoreCompileInputs.cache
+C:\Users\kelly\source\repos\SocialNetworkGoogle\SocialNetworkGoogle\obj\Debug\netcoreapp3.1\SocialNetworkGoogle.dll
+C:\Users\kelly\source\repos\SocialNetworkGoogle\SocialNetworkGoogle\obj\Debug\netcoreapp3.1\SocialNetworkGoogle.pdb
+C:\Users\kelly\source\repos\SocialNetworkGoogle\SocialNetworkGoogle\obj\Debug\netcoreapp3.1\SocialNetworkGoogle.genruntimeconfig.cache
